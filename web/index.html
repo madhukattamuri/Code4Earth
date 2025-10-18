@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Crop & Disease Detection (Demo)</title>
+  <link rel="stylesheet" href="/style.css?v=4" />
+</head>
+<body>
+  <header>
+    <div class="brand">
+      <h1>🌾 Crop & Disease Detection</h1>
+      <p class="muted">Lightweight demo with pre-bundled prototypes — swap with your own models later.</p>
+    </div>
+
+    <div class="nav-right">
+      <div class="lang">
+        <label for="lang">🌐</label>
+        <select id="lang">
+          <option value="en">English</option>
+          <option value="hi">हिन्दी</option>
+          <option value="te">తెలుగు</option>
+        </select>
+      </div>
+
+      <div class="auth" id="authArea">
+        <a href="/login.html" id="loginLink">Login</a>
+        <span id="userInfo" class="user-info" style="display:none">
+          <span id="userEmail"></span>
+          <button id="logoutBtn" class="logout">Logout</button>
+        </span>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section class="uploader">
+      <label class="drop" id="drop">
+        <input id="file" type="file" accept="image/*" hidden />
+        <span id="fileLabel">Drop a leaf image here or click to upload</span>
+      </label>
+      <div class="actions">
+        <button id="btnDetect">Detect Crop Regions</button>
+        <button id="btnDisease">Check Disease</button>
+      </div>
+    </section>
+
+    <section class="viewer">
+      <canvas id="canvas"></canvas>
+      <div id="output" class="output"></div>
+    </section>
+  </main>
+
+  <footer>
+    <small>Demo • MIT License • Replace with ONNX/TF models when ready</small>
+  </footer>
+
+  <script src="/app.js?v=4"></script>
+</body>
+</html>

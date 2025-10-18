@@ -1,0 +1,112 @@
+{
+  "Generic": {
+    "summary": "General guidance for foliar diseases.",
+    "precautions": [
+      "Scout fields weekly; start interventions early when symptoms are first seen.",
+      "Avoid overhead irrigation late in the day; keep foliage as dry as possible.",
+      "Sanitize tools and remove heavily infected plant debris from the field.",
+      "Balance NPK; excess nitrogen encourages soft, disease-prone growth."
+    ],
+    "cultural_controls": [
+      "Use resistant/tolerant varieties when available.",
+      "Ensure adequate spacing and airflow; prune lower leaves to reduce humidity.",
+      "Rotate crops (2–3 years) and avoid planting on infected residues."
+    ],
+    "organic_options": [
+      "Horticultural oil or neem oil for surface suppression (apply in the cool hours).",
+      "Potassium bicarbonate or bicarbonate+oil mixes can knock back light infections.",
+      "Copper-based protectants (use sparingly to avoid copper buildup)."
+    ],
+    "chemical_options": [
+      "Rotate different FRAC modes of action to prevent resistance.",
+      "Always follow local regulations and product labels for crops and pre-harvest intervals."
+    ],
+    "note": "Local labels and permitted actives vary by region; verify with your state agriculture department/extension."
+  },
+
+  "Healthy": {
+    "summary": "Leaf looks mostly healthy. Keep monitoring.",
+    "precautions": [
+      "Continue weekly scouting; remove any new infected leaves promptly.",
+      "Irrigate at the base and avoid wetting foliage, especially overnight."
+    ],
+    "cultural_controls": [
+      "Maintain balanced fertilization and good airflow.",
+      "Mulch to reduce soil splash and weed hosts."
+    ],
+    "organic_options": [
+      "No treatment needed; you may use preventive protectants during wet/humid spells (sulfur or copper as label allows)."
+    ],
+    "chemical_options": [
+      "Preventive sprays usually not necessary; if disease pressure historically high, consider a protectant before forecasted humidity/rain."
+    ],
+    "note": "Overuse of fungicides without confirmed disease can drive resistance and wastes money."
+  },
+
+  "Leaf Rust": {
+    "summary": "Rust typically shows as orange-brown powdery pustules on leaves.",
+    "precautions": [
+      "Destroy volunteer/alternate hosts and crop residues that harbor rust.",
+      "Avoid excessive late nitrogen which drives lush, susceptible growth."
+    ],
+    "cultural_controls": [
+      "Use resistant varieties; sow at recommended dates (avoid very late sowing).",
+      "Ensure airflow; do not overcrowd plants."
+    ],
+    "organic_options": [
+      "Sulfur (wettable sulfur/dust) applied early can suppress rust development.",
+      "Copper-based protectants provide broad surface protection (observe labels)."
+    ],
+    "chemical_options": [
+      "Triazoles (FRAC 3) e.g., propiconazole, tebuconazole, difenoconazole.",
+      "Strobilurins (FRAC 11) e.g., azoxystrobin, pyraclostrobin, fluoxastrobin.",
+      "Multi-site protectants (FRAC M03/M01) e.g., mancozeb, copper oxychloride.",
+      "Rotate FRAC groups and mix a protectant with a single-site active to slow resistance."
+    ],
+    "note": "Follow label crop lists and PHIs. Some actives may be restricted or phased out in certain countries."
+  },
+
+  "Leaf Blight": {
+    "summary": "Leaf blight (often Alternaria/Helminthosporium) causes tan/brown lesions that may coalesce.",
+    "precautions": [
+      "Irrigate early in the day to reduce leaf wetness; avoid overhead irrigation if possible.",
+      "Remove and destroy infected residues; avoid working in fields when foliage is wet."
+    ],
+    "cultural_controls": [
+      "Wider spacing and pruning to reduce humidity and improve airflow.",
+      "2–3 year rotation away from susceptible hosts; use certified, disease-free seed."
+    ],
+    "organic_options": [
+      "Copper-based protectants for general suppression (watch total seasonal copper).",
+      "Bicarbonate + oil mixes can help on very early infections."
+    ],
+    "chemical_options": [
+      "Protectants: mancozeb (FRAC M03), chlorothalonil* (FRAC M05)*, copper oxychloride (FRAC M01).",
+      "Systemics: azoxystrobin (FRAC 11), propiconazole / difenoconazole / tebuconazole (FRAC 3).",
+      "Rotate modes of action and tank-mix with a multi-site where allowed."
+    ],
+    "note": "Chlorothalonil is restricted in some regions; verify legality. Always observe label rates and PHIs."
+  },
+
+  "Powdery Mildew": {
+    "summary": "Powdery white/gray growth on upper leaf surfaces; thrives in dry days + humid nights.",
+    "precautions": [
+      "Avoid excess nitrogen; increase airflow by pruning or wider spacing.",
+      "Do not overhead irrigate late evening; reduce humidity around canopy."
+    ],
+    "cultural_controls": [
+      "Remove the most infected leaves early to lower inoculum.",
+      "Choose resistant cultivars where available."
+    ],
+    "organic_options": [
+      "Wettable sulfur (very effective preventively).",
+      "Potassium bicarbonate sprays; horticultural oils (paraffinic/neem) on light infections."
+    ],
+    "chemical_options": [
+      "Triazoles (FRAC 3) e.g., myclobutanil, hexaconazole, difenoconazole.",
+      "Strobilurins (FRAC 11) e.g., azoxystrobin, kresoxim-methyl.",
+      "Rotate FRAC groups; avoid back-to-back sprays of the same MOA."
+    ],
+    "note": "Do not spray sulfur within ~2 weeks of oil applications; risk of phytotoxicity in high heat."
+  }
+}

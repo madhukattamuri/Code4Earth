@@ -1,0 +1,328 @@
+{
+  "en": {
+    "Generic": {
+      "summary": "General guidance for foliar diseases.",
+      "precautions": [
+        "Scout fields weekly; start interventions early when symptoms are first seen.",
+        "Avoid overhead irrigation late in the day; keep foliage as dry as possible.",
+        "Sanitize tools and remove heavily infected plant debris from the field.",
+        "Balance NPK; excess nitrogen encourages soft, disease-prone growth."
+      ],
+      "cultural_controls": [
+        "Use resistant/tolerant varieties when available.",
+        "Ensure adequate spacing and airflow; prune lower leaves to reduce humidity.",
+        "Rotate crops (2–3 years) and avoid planting on infected residues."
+      ],
+      "organic_options": [
+        "Horticultural or neem oil for surface suppression (apply in cool hours).",
+        "Potassium bicarbonate mixes can knock back light infections.",
+        "Copper-based protectants (use as per label to avoid buildup)."
+      ],
+      "chemical_options": [
+        "Rotate FRAC modes of action to prevent resistance.",
+        "Always follow local regulations and product labels for crops and PHIs."
+      ],
+      "note": "Labels and permitted actives vary by region; verify with local agri-extension."
+    },
+    "Healthy": {
+      "summary": "Leaf looks mostly healthy. Keep monitoring.",
+      "precautions": [
+        "Continue weekly scouting; remove any new infected leaves promptly.",
+        "Irrigate at the base and avoid wetting foliage, especially overnight."
+      ],
+      "cultural_controls": [
+        "Maintain balanced fertilization and good airflow.",
+        "Mulch to reduce soil splash and weed hosts."
+      ],
+      "organic_options": [
+        "No treatment needed; consider preventive protectants during wet/humid spells."
+      ],
+      "chemical_options": [
+        "Preventive sprays usually not necessary; consider only under high pressure."
+      ],
+      "note": "Avoid unnecessary fungicide use; it increases costs and resistance."
+    },
+    "Leaf Rust": {
+      "summary": "Rust shows as orange-brown powdery pustules on leaves.",
+      "precautions": [
+        "Destroy volunteer/alternate hosts and crop residues that harbor rust.",
+        "Avoid excessive late nitrogen which drives lush, susceptible growth."
+      ],
+      "cultural_controls": [
+        "Use resistant varieties; sow at recommended dates.",
+        "Ensure airflow; do not overcrowd plants."
+      ],
+      "organic_options": [
+        "Wettable sulfur applied early can suppress rust.",
+        "Copper-based protectants offer broad surface protection."
+      ],
+      "chemical_options": [
+        "Triazoles (FRAC 3): propiconazole, tebuconazole, difenoconazole.",
+        "Strobilurins (FRAC 11): azoxystrobin, pyraclostrobin.",
+        "Multi-site protectants: mancozeb (M03), copper oxychloride (M01).",
+        "Rotate FRAC groups; tank-mix with a protectant where allowed."
+      ],
+      "note": "Follow crop labels and pre-harvest intervals (PHI)."
+    },
+    "Leaf Blight": {
+      "summary": "Tan/brown lesions that may coalesce, often Alternaria/Helminthosporium.",
+      "precautions": [
+        "Irrigate early to reduce leaf wetness; avoid evening overhead irrigation.",
+        "Remove infected residues; avoid working in fields when foliage is wet."
+      ],
+      "cultural_controls": [
+        "Wider spacing and pruning to reduce humidity.",
+        "2–3 year rotation; use certified, disease-free seed."
+      ],
+      "organic_options": [
+        "Copper-based protectants for general suppression.",
+        "Bicarbonate + oil mixes can help on early infections."
+      ],
+      "chemical_options": [
+        "Protectants: mancozeb (M03), copper oxychloride (M01).",
+        "Systemics: azoxystrobin (11), propiconazole/difenoconazole/tebuconazole (3).",
+        "Rotate modes of action; avoid repeated single-site sprays."
+      ],
+      "note": "Observe label rates and local restrictions."
+    },
+    "Powdery Mildew": {
+      "summary": "Powdery white/gray growth on leaf surfaces; dry days + humid nights.",
+      "precautions": [
+        "Avoid excess nitrogen; increase airflow by pruning or wider spacing.",
+        "Do not overhead irrigate late evening; reduce humidity around canopy."
+      ],
+      "cultural_controls": [
+        "Remove heavily infected leaves early to lower inoculum.",
+        "Choose resistant cultivars where available."
+      ],
+      "organic_options": [
+        "Wettable sulfur (very effective preventively).",
+        "Potassium bicarbonate or horticultural oils on light infections."
+      ],
+      "chemical_options": [
+        "Triazoles (3): myclobutanil, hexaconazole, difenoconazole.",
+        "Strobilurins (11): azoxystrobin, kresoxim-methyl.",
+        "Rotate FRAC groups; avoid back-to-back sprays of the same MOA."
+      ],
+      "note": "Do not spray sulfur within ~2 weeks of oil; risk of phytotoxicity in heat."
+    }
+  },
+
+  "hi": {
+    "Generic": {
+      "summary": "पत्तियों पर होने वाली बीमारियों के लिए सामान्य मार्गदर्शन।",
+      "precautions": [
+        "खेत का साप्ताहिक निरीक्षण करें; लक्षण दिखते ही तुरंत उपाय शुरू करें।",
+        "दिन के अंत में ऊपर से सिंचाई न करें; पत्तियाँ जितनी सूखी रहें उतना अच्छा।",
+        "उपकरणों को सैनिटाइज़ करें और अधिक संक्रमित अवशेषों को खेत से हटाएँ।",
+        "NPK संतुलित रखें; अधिक नाइट्रोजन न दें।"
+      ],
+      "cultural_controls": [
+        "जहाँ उपलब्ध हो वहाँ प्रतिरोधी किस्में अपनाएँ।",
+        "उचित दूरी और वायु संचार बनाएँ; निचली पत्तियाँ छाँटें।",
+        "2–3 वर्षों का फसल चक्र रखें और संक्रमित अवशेषों पर बोआई न करें।"
+      ],
+      "organic_options": [
+        "हॉर्टिकल्चर/नीम तेल (ठंडे समय पर छिड़कें)।",
+        "पोटेशियम बाइकार्बोनेट हल्के संक्रमण में सहायक।",
+        "कॉपर आधारित प्रोटेक्टेंट (लेबल के अनुसार)।"
+      ],
+      "chemical_options": [
+        "FRAC मोड बदल-बदलकर प्रयोग करें ताकि प्रतिरोध न बने।",
+        "हमेशा स्थानीय नियम, लेबल, और PHI का पालन करें।"
+      ],
+      "note": "कानूनी अनुमति और डोज़ क्षेत्र अनुसार बदलती है—कृषि विस्तार से पुष्टि करें।"
+    },
+    "Healthy": {
+      "summary": "पत्ती अधिकांशतः स्वस्थ दिख रही है। निगरानी जारी रखें।",
+      "precautions": [
+        "साप्ताहिक स्काउटिंग जारी रखें; नई संक्रमित पत्तियाँ तुरंत हटाएँ।",
+        "मूल/जड़ के पास सिंचाई करें; पत्तियाँ भिगोने से बचें।"
+      ],
+      "cultural_controls": [
+        "संतुलित पोषण और अच्छा वेंटिलेशन रखें।",
+        "मल्च डालें ताकि मिट्टी के छींटे कम हों।"
+      ],
+      "organic_options": [
+        "उपचार आवश्यक नहीं; लगातार नमी/आर्द्रता में प्रिवेंटिव प्रोटेक्टेंट उपयोग कर सकते हैं।"
+      ],
+      "chemical_options": [
+        "आमतौर पर आवश्यकता नहीं; उच्च दबाव होने पर ही विचार करें।"
+      ],
+      "note": "अनावश्यक फफूंदनाशी से लागत व प्रतिरोध बढ़ता है।"
+    },
+    "Leaf Rust": {
+      "summary": "लीफ रस्ट में नारंगी-भूरे पाउडर जैसे धब्बे बनते हैं।",
+      "precautions": [
+        "वॉलंटियर/वैकल्पिक मेज़बान पौधों और अवशेषों को नष्ट करें।",
+        "अत्यधिक देर से नाइट्रोजन न दें।"
+      ],
+      "cultural_controls": [
+        "प्रतिरोधी किस्में लें; अनुशंसित तिथियों पर बुआई करें।",
+        "घना रोपण न करें; वायु संचार रखें।"
+      ],
+      "organic_options": [
+        "वेटेबल सल्फर शुरुआती अवस्था में प्रभावी।",
+        "कॉपर प्रोटेक्टेंट सतही सुरक्षा देता है।"
+      ],
+      "chemical_options": [
+        "ट्रायज़ोल (FRAC 3): प्रोपिकोनाज़ोल, टेब्यूकोनाज़ोल, डाइफेनोकोनाज़ोल।",
+        "स्ट्रोबिल्यूरिन (FRAC 11): एजॉक्सीस्ट्रोबिन, पायराक्लोस्ट्रोबिन।",
+        "मल्टी-साइट: मैनकोजे़ब (M03), कॉपर ऑक्सीक्लोराइड (M01)।",
+        "FRAC ग्रुप घुमाकर प्रयोग करें; जहाँ सम्भव हो प्रोटेक्टेंट के साथ मिलाएँ।"
+      ],
+      "note": "लेबल फसल-सूची और PHI का पालन करें।"
+    },
+    "Leaf Blight": {
+      "summary": "टैन/भूरे धब्बे जो मिलकर बड़े हो सकते हैं (अल्टरनेरिया इत्यादि)।",
+      "precautions": [
+        "सुबह सिंचाई करें; शाम को ऊपर से सिंचाई न करें।",
+        "संक्रमित अवशेष हटाएँ; गीली पत्तियों पर खेत में काम न करें।"
+      ],
+      "cultural_controls": [
+        "अधिक दूरी/छँटाई से आर्द्रता कम करें।",
+        "2–3 वर्ष का फसल चक्र; रोग-मुक्त बीज का उपयोग करें।"
+      ],
+      "organic_options": [
+        "कॉपर आधारित प्रोटेक्टेंट सामान्य दमन देता है।",
+        "बाइकार्बोनेट + तेल मिश्रण शुरुआती संक्रमण में सहायक।"
+      ],
+      "chemical_options": [
+        "प्रोटेक्टेंट: मैनकोजे़ब (M03), कॉपर ऑक्सीक्लोराइड (M01)।",
+        "सिस्टेमिक: एजॉक्सीस्ट्रोबिन (11), प्रोपिकोनाज़ोल/डाइफेनोकोनाज़ोल/टेब्यूकोनाज़ोल (3)।",
+        "MOA बदल-बदलकर प्रयोग करें।"
+      ],
+      "note": "डोज़/सीमाएँ क्षेत्र अनुसार; लेबल के अनुसार ही उपयोग करें।"
+    },
+    "Powdery Mildew": {
+      "summary": "ऊपरी सतह पर सफेद/भूरे पाउडर जैसा जमाव; सूखे दिन + नम रातें।",
+      "precautions": [
+        "अधिक नाइट्रोजन से बचें; छँटाई/दूरी से हवा का प्रवाह बढ़ाएँ।",
+        "शाम को ऊपर से सिंचाई न करें; नमी कम रखें।"
+      ],
+      "cultural_controls": [
+        "अत्यधिक संक्रमित पत्तियाँ जल्दी हटा दें।",
+        "जहाँ उपलब्ध वहाँ प्रतिरोधी किस्में चुनें।"
+      ],
+      "organic_options": [
+        "वेटेबल सल्फर (रोकथाम में बहुत प्रभावी)।",
+        "पोटेशियम बाइकार्बोनेट या हॉर्टिकल्चर ऑयल हल्के संक्रमण में।"
+      ],
+      "chemical_options": [
+        "ट्रायज़ोल (3): माइκλοब्यूटानिल, हेक्साकोनाज़ोल, डाइफेनोकोनाज़ोल।",
+        "स्ट्रोबिल्यूरिन (11): एजॉक्सीस्ट्रोबिन, क्रेसोक्सिम-मेथिल।",
+        "FRAC समूह बदलते रहें।"
+      ],
+      "note": "तेल के साथ सल्फर का 2 सप्ताह के भीतर प्रयोग न करें; गर्मी में फाइटोटॉक्सिसिटी का जोखिम।"
+    }
+  },
+
+  "te": {
+    "Generic": {
+      "summary": "ఆకుల మీద కనిపించే వ్యాధులకు సాధారణ మార్గదర్శకం.",
+      "precautions": [
+        "ప్రతి వారం క్షేత్ర పరిశీలన చేయండి; లక్షణాలు కనిపిస్తూనే చర్యలు ప్రారంభించండి.",
+        "రోజు చివర్లో ఓవర్-హెడ్ నీటిపారుదల చేయవద్దు; ఆకులు వీలైనంత పొడిగా ఉండేలా చూడండి.",
+        "పరికరాలను శుభ్రపరచండి; బాగా సంక్రమించిన అవశేషాలను పొలం నుండి తొలగించండి.",
+        "NPK సమతుల్యం ఉంచండి; అధిక నైట్రజన్ వాడకాన్ని నివారించండి."
+      ],
+      "cultural_controls": [
+        "ఎక్కడ లభ్యమైతే అక్కడ నిరోధక రకాలను వాడండి.",
+        "తగినంత దూరం/గాలి ప్రసరణ ఉండేలా ఆకులను కింద నుంచి కొంత కొద్దిగా తీయండి.",
+        "2–3 సంవత్సరాలు పంటల మార్పిడి చేయండి; సంక్రమిత అవశేషాలపై విత్తవద్దు."
+      ],
+      "organic_options": [
+        "హార్టికల్చర్ ఆయిల్/నేమ్ ఆయిల్ (చల్లని సమయాల్లో పిచికారీ).",
+        "పొటాషియం బైకార్బోనేట్ తేలికపాటి సంక్రమణల్లో సహాయపడుతుంది.",
+        "కాపర్ ఆధారిత ప్రొటెక్టెంట్లు (లేబల్ ప్రకారం మాత్రమే)."
+      ],
+      "chemical_options": [
+        "FRAC విధానాలను తిరుగుతూ వాడండి—ప్రతిఘటన రాకుండా.",
+        "ఎల్లప్పుడూ స్థానిక నిబంధనలు, లేబల్, PHIలను పాటించండి."
+      ],
+      "note": "ప్రాంతానుసారం అనుమతులు/డోసులు మారుతాయి—అగ్రి ఎక్స్టెన్షన్‌తో నిర్ధారించండి."
+    },
+    "Healthy": {
+      "summary": "ఆకు ప్రధానంగా ఆరోగ్యంగా ఉంది. పరిశీలన కొనసాగించండి.",
+      "precautions": [
+        "వారం వారం స్కౌటింగ్ చేయండి; కొత్తగా ఇన్ఫెక్ట్ అయిన ఆకులను వెంటనే తొలగించండి.",
+        "రూట్ దగ్గర నీళ్ళు ఇవ్వండి; ఆకులు తడవకుండా చూడండి."
+      ],
+      "cultural_controls": [
+        "సమతుల్య ఎరువులు, మంచి గాలి ప్రసరణ ఉంచండి.",
+        "మల్చింగ్ చేయడం వల్ల మట్టి చిమ్ముర్లు తగ్గుతాయి."
+      ],
+      "organic_options": [
+        "చికిత్స అవసరం లేదు; అధిక ఆర్ద్రత/వర్షకాలంలో నివారక ప్రొటెక్టెంట్లు ఆలోచించవచ్చు."
+      ],
+      "chemical_options": [
+        "సాధారణంగా అవసరం లేదు; పీడనం ఎక్కువైతే మాత్రమే ఆలోచించండి."
+      ],
+      "note": "అవసరం లేకుండా ఫంగిసైడ్ వాడటం ఖర్చు మరియు ప్రతిఘటన పెంచుతుంది."
+    },
+    "Leaf Rust": {
+      "summary": "ఆకులపై నారింజ-గోధుమ రంగు పొడి లాంటి పుట్లు కనిపిస్తాయి.",
+      "precautions": [
+        "రస్ట్‌ను మోహించే ప్రత్యామ్నాయ హోస్టులు/అవశేషాలను నాశనం చేయండి.",
+        "అంత్య దశలో అధిక నైట్రజన్ వాడకాన్ని నివారించండి."
+      ],
+      "cultural_controls": [
+        "నిరోధక రకాలను ఎంచుకోండి; సిఫారసు చేసిన తేదీల్లో విత్తండి.",
+        "ఒత్తిడిగా నాటవద్దు; గాలి ప్రసరణ ఉండేలా ఉంచండి."
+      ],
+      "organic_options": [
+        "వెటబుల్ సల్ఫర్ ప్రాథమిక దశలో ప్రభావవంతం.",
+        "కాపర్ ఆధారిత ప్రొటెక్టెంట్లు ఉపరితల రక్షణ ఇస్తాయి."
+      ],
+      "chemical_options": [
+        "ట్రయాజోలు (FRAC 3): ప్రొపికోనజోల్, టెబ్యుకోనజోల్, డైఫెనోకోనజోల్.",
+        "స్ట్రోబిల్యూరిన్లు (FRAC 11): అజాక్సీస్ట్రోబిన్, పైరాక్లోస్ట్రోబిన్.",
+        "మల్టీ-సైట్: మాంకోజెబ్ (M03), కాపర్ ఆక్సీక్లోరైడ్ (M01).",
+        "FRAC గ్రూపులను మారుస్తూ వాడండి; వీలైతే ప్రొటెక్టెంట్‌తో మిక్స్ చేయండి."
+      ],
+      "note": "పంటలేబుల్స్ మరియు PHIను కచ్చితంగా పాటించండి."
+    },
+    "Leaf Blight": {
+      "summary": "టాన్/బ్రౌన్ మచ్చలు కలిసిపోతాయి (ఆల్టెర్నేరియా మొదలైనవి).",
+      "precautions": [
+        "ఉదయం నీటిపారుదల చేయండి; సాయంత్రం ఓవర్-హెడ్ నీరు నివారించండి.",
+        "సంక్రమిత అవశేషాలను తొలగించండి; తడి ఆకులపై పొలంలో పని చేయవద్దు."
+      ],
+      "cultural_controls": [
+        "విస్తృత దూరం/కత్తిరింపు ద్వారా ఆర్ద్రత తగ్గించండి.",
+        "2–3 సంవత్సరాల పంట మార్పిడి; రోగరహిత విత్తనం వాడండి."
+      ],
+      "organic_options": [
+        "కాపర్ ప్రొటెక్టెంట్లు సాధారణంగా దమనాన్ని ఇస్తాయి.",
+        "బైకార్బోనేట్ + ఆయిల్ మిశ్రణలు ప్రారంభ దశలో సహాయపడతాయి."
+      ],
+      "chemical_options": [
+        "ప్రొటెక్టెంట్లు: మాంకోజెబ్ (M03), కాపర్ ఆక్సీక్లోరైడ్ (M01).",
+        "సిస్టమిక్స్: అజాక్సీస్ట్రోబిన్ (11), ప్రొపికోనజోల్/డైఫెనోకోనజోల్/టెబ్యుకోనజోల్ (3).",
+        "MOAలు మారుస్తూ వాడండి."
+      ],
+      "note": "లేబుల్ రేట్లు, స్థానిక పరిమితులను పాటించండి."
+    },
+    "Powdery Mildew": {
+      "summary": "ఆకులపై తెలుపు/బూడిద పౌడర్ లాంటి పెరుగుదల; పొడి రోజులు + తేమగల రాత్రులు.",
+      "precautions": [
+        "అధిక నైట్రజన్ నివారించండి; కత్తిరింపు/దూరం ద్వారా గాలి ప్రసరణ పెంచండి.",
+        "సాయంత్రం ఓవర్-హెడ్ నీరు ఇవ్వవద్దు; కెనోపీలో తేమ తగ్గించండి."
+      ],
+      "cultural_controls": [
+        "బాగా సంక్రమించిన ఆకులను తొందరగా తొలగించండి.",
+        "లభ్యమైతే నిరోధక రకాలను ఎంచుకోండి."
+      ],
+      "organic_options": [
+        "వెటబుల్ సల్ఫర్ (నివారణలో ఎంతో ప్రభావవంతం).",
+        "పొటాషియం బైకార్బోనేట్ లేదా హార్టికల్చర్ ఆయిల్ తేలికపాటి దశలో."
+      ],
+      "chemical_options": [
+        "ట్రయాజోలు (3): మైక్లోబ్యూటానిల్, హెక్సాకోనజోల్, డైఫెనోకోనజోల్.",
+        "స్ట్రోబిల్యూరిన్లు (11): అజాక్సీస్ట్రోబిన్, క్రెసాక్సిమ్-మెతిల్.",
+        "FRAC గ్రూపులను తిరుగుతూ వాడండి."
+      ],
+      "note": "ఆయిల్ పిచికారీ చేసిన 2 వారాల్లో సల్ఫర్ వాడవద్దు; వేడిలో ఫైటోటాక్సిసిటీ ప్రమాదం."
+    }
+  }
+}

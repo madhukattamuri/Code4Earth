@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Login • Crop & Disease</title>
+  <link rel="stylesheet" href="/style.css?v=4" />
+</head>
+<body>
+  <div class="card">
+    <h2 id="title">Login</h2>
+
+    <div id="signinForm">
+      <div class="form-row">
+        <label>Email</label>
+        <input type="email" id="loginEmail" placeholder="you@example.com" />
+      </div>
+      <div class="form-row">
+        <label>Password</label>
+        <input type="password" id="loginPass" placeholder="••••••••" />
+      </div>
+      <button class="btn" id="btnSignin">Sign in</button>
+      <div class="err" id="loginErr"></div>
+      <div class="switch">New here? <a href="#" id="goSignup">Create an account</a></div>
+    </div>
+
+    <div id="signupForm" style="display:none">
+      <div class="form-row">
+        <label>Full name (optional)</label>
+        <input type="text" id="signupName" placeholder="Your name" />
+      </div>
+      <div class="form-row">
+        <label>Email</label>
+        <input type="email" id="signupEmail" placeholder="you@example.com" />
+      </div>
+      <div class="form-row">
+        <label>Password (min 6 chars)</label>
+        <input type="password" id="signupPass" placeholder="••••••••" />
+      </div>
+      <button class="btn" id="btnSignup">Create account</button>
+      <div class="err" id="signupErr"></div>
+      <div class="switch">Already have an account? <a href="#" id="goSignin">Sign in</a></div>
+    </div>
+
+    <div class="ok" id="okMsg" style="display:none"></div>
+  </div>
+
+  <script src="/login.js?v=4"></script>
+</body>
+</html>

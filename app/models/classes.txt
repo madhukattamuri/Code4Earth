@@ -1,0 +1,4 @@
+Healthy
+Leaf Rust
+Leaf Blight
+Powdery Mildew
